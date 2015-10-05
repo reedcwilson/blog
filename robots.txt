@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://blog.reedcwilson.com/sitemap.xml
+Disallow: /ghost/
